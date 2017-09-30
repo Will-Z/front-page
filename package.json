@@ -1,0 +1,29 @@
+{
+  "name": "front-page",
+  "version": "0.0.1",
+  "description": "Front Page",
+  "main": "index.js",
+  "scripts": {
+    "start": "hs",
+    "dev": "hs",
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbdyzj/front-page.git"
+  },
+  "author": "cbdyzj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbdyzj/front-page/issues"
+  },
+  "homepage": "https://github.com/cbdyzj/front-page#readme",
+  "dependencies": {
+    "js-util": "git+https://github.com/cbdyzj/js-util.git"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "gulp": "latest",
+    "ava": "latest"
+  }
+}
